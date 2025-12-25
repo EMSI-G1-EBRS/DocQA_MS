@@ -585,4 +585,8 @@ Pour toute question ou problème :
 
 ---
 
+
+https://github.com/user-attachments/assets/804630ea-4568-4bc9-bb55-47b3a16bd144
+
+
 **Développé avec ❤️ pour améliorer l'accès à l'information médicale**
